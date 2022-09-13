@@ -3,6 +3,5 @@ public class calcDua {
         int a = 10;
         int b = 2;
         int c = a * b;
-        System.out.println("Hasil = " + c);
     }
 }
